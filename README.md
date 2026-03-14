@@ -13,6 +13,7 @@ The repository is organized into the following sections to help you navigate the
 - **[`/cheatsheets`](./cheatsheets/)**: Quick reference guides for Git commands, workflows, and GitHub features.
 - **[`/hands-on-labs`](./hands-on-labs/)**: Step-by-step practical exercises and lab scenarios to practice Git commands safely.
 - **[`/interview-prep`](./interview-prep/)**: Common Git and version control interview questions with detailed answers and scenarios.
+- **[`/notes`](./notes/)**: Personal notes, summaries, and key takeaways from learning Git and GitHub.
 - **[`/projects`](./projects/)**: Real-world mini-projects to apply your GitHub skills (e.g., setting up GitHub Pages, Actions, or collaborating on a PR).
 - **[`/resources`](./resources/)**: Curated links to external tutorials, videos, games, and official documentation.
 

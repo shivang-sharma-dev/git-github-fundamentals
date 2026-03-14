@@ -52,7 +52,7 @@ New file created
       │                                                     (you edit the file)
       │                                                            │
       └──────── git rm ────────────────────────────────── Modified (tracked)
-                                                                   │
+                                                                   │ s
                                                             git add again ──► Staged
 ```
 
